@@ -5,7 +5,7 @@
   
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=50FA7B&background=1E1E2E00&center=true&vCenter=true&width=750&height=20&lines=%24+role%3A+DevOps+%7C+MLOps+%7C+Cloud-Native;%24+study%3A+Student+%40+UIT+%28VNUHCM%29;%24+stack%3A+Python%2C+Docker%2C+Kubernetes%2C+Cloud%2C+MLOps;%24+status%3A+Deploying+the+future..." alt="Terminal Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=50FA7B&background=1E1E2E00&center=true&vCenter=true&width=750&height=30&lines=%24+role%3A+DevOps+%7C+MLOps+%7C+Cloud-Native;%24+study%3A+Student+%40+UIT+%28VNUHCM%29;%24+stack%3A+Python%2C+Docker%2C+Kubernetes%2C+Cloud%2C+MLOps;%24+status%3A+Deploying+the+future..." alt="Terminal Typing Banner" />
 </div>
 
 ---
