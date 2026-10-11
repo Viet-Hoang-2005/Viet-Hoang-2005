@@ -1,26 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e293b&height=140&section=header&text=Tr%E1%BA%A7n%20Nguy%E1%BB%85n%20Vi%E1%BB%87t%20Ho%C3%A0ng&fontSize=38&fontAlignY=52&fontColor=38bdf8" 
-  width="100%"
-  alt="Trần Nguyễn Việt Hoàng"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Tr%E1%BA%A7n%20Nguy%E1%BB%85n%20Vi%E1%BB%87t%20Ho%C3%A0ng&fontSize=42&fontAlignY=50&fontColor=38bdf8" width="100%"/>
   
-  <br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=50FA7B&background=1E1E2E00&center=true&vCenter=true&width=750&height=30&lines=%24+role%3A+DevOps+%7C+MLOps+%7C+Cloud-Native;%24+study%3A+Student+%40+UIT+%28VNUHCM%29;%24+stack%3A+Python%2C+Docker%2C+Kubernetes%2C+Cloud%2C+MLOps;%24+status%3A+Deploying+the+future..." alt="Terminal Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38bdf8&background=1E1E2E00&center=true&vCenter=true&width=750&height=40&lines=%24+role%3A+DevOps+%7C+MLOps+%7C+Cloud-Native;%24+study%3A+Student+%40+UIT+%28VNUHCM%29;%24+stack%3A+Python%2C+Docker%2C+Kubernetes%2C+Cloud%2C+MLOps;%24+status%3A+Deploying+the+future..." alt="Terminal Typing Banner" />
 </div>
 
 ---
 
 ### Tech Stack
-
-#### DevOps, Cloud & Infrastructure
-<p align="center">
+<div align="center">
+  <h3 align="center">DevOps & Cloud-Native Skills</h3>
   <img src="https://skillicons.dev/icons?i=linux,aws,gcp,git,docker,kubernetes,terraform,ansible,github,githubactions,grafana,prometheus" alt="DevOps Skills" />
-</p>
+</div>
 
-#### Application Development
-<p align="center">
+<div align="center">
+  <h3 align="center">Application Skills</h3>
   <img src="https://skillicons.dev/icons?i=py,ts,react,fastapi,django,spring,redis,kafka,postgres,mongodb" alt="Application Skills" />
-</p>
+</div>
 
 ---
 
