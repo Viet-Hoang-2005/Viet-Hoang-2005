@@ -50,12 +50,6 @@
   <a href="mailto:tnvhoang2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-tnvhoang2005%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.facebook.com/viethoang.trannguyen.35" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Viet%20Hoang-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tnvhoang2005/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-tnvhoang2005-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </div>
 
 ---
